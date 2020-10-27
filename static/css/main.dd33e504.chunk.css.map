@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,MACE,aAAc,CACd,WAAa,CACb,aAAc","file":"main.dd33e504.chunk.css","sourcesContent":["// styles go here\n#root {\n  display: block;\n  width:  450px;\n  margin: 0 auto;\n}\n"]}
